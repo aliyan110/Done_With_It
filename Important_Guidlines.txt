@@ -1,0 +1,9 @@
+once you pulled the repository seperate the mobile app and App Backend into seperate folders else modify the paths in index.js to make the program working
+
+
+Important Note :
+
+this is not an actuall server instead its a dummy server just to make sure that your api's are working if you want to make this a professional use fit app,
+you might need to develope an actuall server along with the data base for this.
+
+The purpose of this app is to demonstrate the use of React Native Expo and help the beginers understand the use of rest apis
