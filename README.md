@@ -20,4 +20,5 @@ At last the Pofile Button takes you to the Account Details Screen where the user
 
 <img src="App_visuals/4.gif" width="200" height="433">
 
-Important Note: this Repository aims to highlight the UI components and focus on the development hence does not contaisn any backend or Database for the app thus you might need to create your own backend using Python or Ruby etc (whichever you prefer) to access the complete functionality of the app.
+Important Note: this Repository aims to highlight the UI components and focus on the development hence the AppBackend attached along with it is just a temporary data base just to test the functionality of the app and test its behaviour. Inoreder to use it as a professional app you need to make your own database using python or Ruby etc (whichever you prefer).
+for further details read guidlines
