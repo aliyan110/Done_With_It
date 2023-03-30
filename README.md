@@ -18,4 +18,6 @@ Besides posting the listings the user can contact the sender of the listing thro
 
 At last the Pofile Button takes you to the Account Details Screen where the user details and few options are available that includes the messages in which user can see the messages he recieved from others on the app, he can calso delete the messages by swiping right. Beneath that appears the My listings  where user can view the listings posted by himself and last the option to logout from the app.
 
+<img src="App_visuals/4.gif" width="200" height="433">
+
 Important Note: this Repository aims to highlight the UI components and focus on the development hence does not contaisn any backend or Database for the app thus you might need to create your own backend using Python or Ruby etc (whichever you prefer) to access the complete functionality of the app.
